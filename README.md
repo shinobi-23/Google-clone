@@ -1,3 +1,3 @@
 # Github.io
-My first repository on Github 
-this is Google homepage clone
+My first repository on Github.
+This is Google homepage clone
