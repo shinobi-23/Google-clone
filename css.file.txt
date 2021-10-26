@@ -1,0 +1,138 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+#nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15;
+    
+}
+#apps {
+  background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+  background-size: 528px 68px;
+}
+
+#apps {
+  width: 30px;
+  height: 30px;
+  background-position: -132px -38px;
+  opacity: 0.55;
+}
+#apps:hover {
+  opacity: 1;
+}
+#nav a{
+    margin-right: 9px;
+}
+.topimage{
+    color: #eee;
+    padding: 3px 7px 6px 10px;
+}
+#nav a.topimage{
+    width: 50px;
+    height: 20px;
+    background: rgb(71, 15, 224);
+    border-radius: 10%;
+}
+
+#middle{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#logo{
+    text-align: center;
+}
+#searchbarcontainer{
+    margin-top: 20px;
+    text-align: center;
+    position: relative;
+}
+#search, #voice{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#search{
+    left: 10px;
+}
+#voice{
+    right: 10px;
+}
+#searchbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: 0;
+    width: 450px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    border: 1px solid rgb(226, 223, 223);
+}
+#searchbar:hover{
+    box-shadow: 0 0 10px 2px rgb(233, 233, 233);
+}
+#buttons{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px 5px;
+    cursor: pointer;
+    border-radius: 3px;
+    background: rgb(243, 239, 239);
+    border: 2px solid transparent;
+}
+#links {
+    margin-top: 20px;
+    text-align: center;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.button:hover{
+    box-shadow: 0 0 1px 1px rgb(168, 165, 165);
+    border: 2px solid #eee;
+}
+
+#footer {
+  background-color: #F2F2F2;
+  border-top: 1px solid #E4E4E4;
+  height: 40px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+#footer ul {
+  height: 100%;
+}
+
+#footer li {
+  padding-left: 27px;
+  font-size: small;
+}
+
+#footer li a {
+  color: #666;
+}
+
+#footer-left {
+  float: left;
+}
+
+#footer-right {
+  float: right;
+  padding-right: 27px;
+}

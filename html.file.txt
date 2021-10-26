@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Google clone</title>
+    </head>
+    <body>
+        <div id="nav">
+            <a class="toplink" href="https://mail.google.com/mail/&ogbl"> Gmail</a>
+            <a class="toplink" href="https://www.google.co.in/imghp?hl=en&ogbl">Image</a>
+            <a id="apps" href="https://www.google.co.in/intl/en/about/products"></a>
+            <a class="topimage" href="https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.co.in/&ec=GAZAmgQ">Sign in</a>
+        </div>
+        <div id="middle">
+            <div id="logo">
+                <img src="https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+            </div>
+            <div id="searchbarcontainer">
+                <div id="search" href="">X</div>
+                <input id="searchbar"
+             type="text" >
+             <div id="voice" href="">Y</div>
+            </div>
+            <div id="buttons">
+                <div class="button">
+                    Google search
+        </div>
+                <div class="button">
+                   I'm Feeling Lucky
+        </div>
+        </div> 
+        <div id="links">
+            Google offered in: <a href="https://www.google.co.in/setprefs?sig=0_etJaVb-QF5gRwMRmVfBDlE0RAcU%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwjF3L2E6uDzAhXMp5UCHQ3SACgQ2ZgBCA4">हिन्दी</a>
+            <a href="https://www.google.co.in/setprefs?sig=0_etJaVb-QF5gRwMRmVfBDlE0RAcU%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwjzhor2mOXzAhVPqpUCHWTVCJEQ2ZgBCA8">বাংলা</a>
+            <a href="https://www.google.co.in/setprefs?sig=0_etJaVb-QF5gRwMRmVfBDlE0RAcU%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwim9pTI6-DzAhXJCrkGHcWKCqEQ2ZgBCA4">English</a>
+            <a href="https://www.google.co.in/setprefs?sig=0_etJaVb-QF5gRwMRmVfBDlE0RAcU%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwjKvu6v6uDzAhUilZUCHSoQCBEQ2ZgBCBE">मराठी </a>
+            <a href="https://www.google.co.in/setprefs?sig=0_etJaVb-QF5gRwMRmVfBDlE0RAcU%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwjghuzu6-DzAhX_EbkGHRACAskQ2ZgBCBM">ગુજરાતી</a>
+            <a href="https://www.google.co.in/setprefs?sig=0_etJaVb-QF5gRwMRmVfBDlE0RAcU%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwjZ46G9geHzAhUIE6YKHQOwAyAQ2ZgBCBY">ਪੰਜਾਬੀ</a>
+
+        </div>
+ <div id="footer">
+        <div id="footer-left">
+          <ul>
+            <li><a href="https://www.google.co.in/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1">Advertising</a></li>
+            <li><a href="https://www.google.co.in/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1">Business</a></li>
+            <li><a href="https://about.google/?utm_source=google-IN&utm_medium=referral&utm_campaign=hp-footer&fg=1">About</a></li>
+          </ul>
+        </div> 
+        <div id="footer-right">
+          <ul>
+            <li><a href="https://policies.google.com/privacy?hl=en-IN&fg=1">Privacy</a></li>
+            <li><a href="https://policies.google.com/terms?hl=en-IN&fg=1">Terms</a></li>
+            <li><a href="https://www.google.co.in/preferences?hl=en-IN&fg=1">Settings</a></li>
+            <li><a href="https://www.google.co.in/">Use Google.com</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+        </div>
+
+    </body>
+</html>
