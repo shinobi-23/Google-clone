@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+    <link rel="stylesheets" href="styles.css">
         <title>Google clone</title>
     </head>
     <body>
